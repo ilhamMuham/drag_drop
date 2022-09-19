@@ -1,0 +1,95 @@
+[
+    {
+      "key": "Seashore",
+      "component": "card",
+      "children": [
+        {
+          "component": "img",
+          "src": "https://images.pexels.com/photos/2877188/pexels-photo-2877188.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+        },
+        {
+          "component": "body",
+          "children": [
+            {
+              "component": "title",
+              "children": "This is a title"
+            },
+            {
+              "component": "subtitle",
+              "children": "This is the subtitle"
+            },
+            {
+              "component": "text",
+              "children": "Some quick example text to build on the card title and make up the bulk of the card's content."
+            },
+            {
+              "component": "button",
+              "children": "Click Me!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "Silhouette-Of-Mountains",
+      "component": "card",
+      "children": [
+        {
+          "component": "img",
+          "src": "https://images.pexels.com/photos/1323550/pexels-photo-1323550.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+        },
+        {
+          "component": "body",
+          "children": [
+            {
+              "component": "title",
+              "children": "Free to use"
+            },
+            {
+              "component": "subtitle",
+              "children": "Altmünster, Upper Austria, Austria"
+            },
+            {
+              "component": "text",
+              "children": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+            },
+            {
+              "component": "button",
+              "children": "Share!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "Cloudy-Sky",
+      "component": "card",
+      "children": [
+        {
+          "component": "img",
+          "src": "https://images.pexels.com/photos/37728/pexels-photo-37728.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+        },
+        {
+          "component": "body",
+          "children": [
+            {
+              "component": "title",
+              "children": "Free to use (CC0)"
+            },
+            {
+              "component": "subtitle",
+              "children": "Altmünster, Upper Austria, Austria"
+            },
+            {
+              "component": "text",
+              "children": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+            },
+            {
+              "component": "button",
+              "children": "Share!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
